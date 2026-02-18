@@ -1,3 +1,8 @@
+Joel MWANDWE
+2025550056
+
+
+
 The Grading System is a beginner-level Python program designed to calculate a student’s academic grade based on five subject marks. The program collects input from the user, computes the average score, and then determines the appropriate grade using conditional statements.
 This project was created to practice and demonstrate understanding of basic Python programming concepts such as user input, variables, arithmetic operations, and decision-making structures.
  Objective of the Program
